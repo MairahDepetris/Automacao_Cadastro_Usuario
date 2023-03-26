@@ -1,2 +1,1 @@
-* linguist-vendored
-*.robotframework linguist-vendored=false
+*.robot linguist-language=RobotFramework
