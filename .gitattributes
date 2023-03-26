@@ -1,2 +1,2 @@
-*.robot framework linguist-detectable=true
+*.robotframework linguist-detectable=true
 *.html linguist-vendored=false
