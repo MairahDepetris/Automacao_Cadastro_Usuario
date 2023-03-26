@@ -1,0 +1,1 @@
+cmd /k "robot -d tests\\log tests\\formulario.robot"
